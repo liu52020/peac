@@ -1,0 +1,6 @@
+build/
+*~
+*.obj
+*.orig
+# Project exclude paths
+/cmake-build-debug/
